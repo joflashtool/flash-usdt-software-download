@@ -7,7 +7,7 @@
 ### For Free Demo 
 ## Connect with Us For Free Demo
 
-- [Telegram](https://t.me/joflashtool)
+- [@joflashtool](https://t.me/joflashtool)
 
 
 ## Key Features
@@ -36,7 +36,7 @@
 
 ## Contact
 
-For more information or support, please contact us via Telegram: [@joflashtool](https://t.me/joflashtool)
+For more information or support, please contact us via Telegram: @joflashtool [@joflashtool](https://t.me/joflashtool)
 
 ## License
 
@@ -54,5 +54,5 @@ This software is for educational and research purposes only. Use it responsibly 
 
 ### Connect with Us
 
-- [Telegram](https://t.me/joflashtool)
+- [@joflashtool](https://t.me/joflashtool)
 
